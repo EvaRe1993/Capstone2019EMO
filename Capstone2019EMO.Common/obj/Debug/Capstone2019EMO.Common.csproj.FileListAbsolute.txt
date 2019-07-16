@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Capstone2019EMO\Capstone2019EMO.Common\bin\Debug\Capstone2019EMO.Common.dll
+C:\Users\Student\source\repos\Capstone2019EMO\Capstone2019EMO.Common\bin\Debug\Capstone2019EMO.Common.pdb
+C:\Users\Student\source\repos\Capstone2019EMO\Capstone2019EMO.Common\obj\Debug\Capstone2019EMO.Common.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Capstone2019EMO\Capstone2019EMO.Common\obj\Debug\Capstone2019EMO.Common.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Capstone2019EMO\Capstone2019EMO.Common\obj\Debug\Capstone2019EMO.Common.dll
+C:\Users\Student\source\repos\Capstone2019EMO\Capstone2019EMO.Common\obj\Debug\Capstone2019EMO.Common.pdb
